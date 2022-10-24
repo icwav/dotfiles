@@ -1,0 +1,6 @@
+2022/10/18-13:57:30.483 3b1c Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_static.btloader.com_0.indexeddb.leveldb since it was missing.
+2022/10/18-13:57:30.520 3b1c Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_static.btloader.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/18-13:57:35.471 3b1c Level-0 table #5: started
+2022/10/18-13:57:35.481 3b1c Level-0 table #5: 369 bytes OK
+2022/10/18-13:57:35.494 3b1c Delete type=0 #3
+2022/10/18-13:57:35.494 3b1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

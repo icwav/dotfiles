@@ -1,0 +1,6 @@
+2022/10/21-19:08:00.708 4d88 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/21-19:08:00.708 4d88 Recovering log #28
+2022/10/21-19:08:00.710 4d88 Reusing old log /home/ivan/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000028.log 
+2022/10/21-19:12:10.615 4da0 Level-0 table #34: started
+2022/10/21-19:12:10.623 4da0 Level-0 table #34: 4024291 bytes OK
+2022/10/21-19:12:10.628 4da0 Delete type=0 #28

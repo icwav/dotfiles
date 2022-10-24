@@ -1,0 +1,12 @@
+2022/10/14-15:31:14.416 6ba9 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/14-15:31:14.416 6ba9 Recovering log #4
+2022/10/14-15:31:14.427 6ba9 Reusing old log /home/ivan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2022/10/14-15:31:15.617 6c4c Level-0 table #8: started
+2022/10/14-15:31:15.630 6c4c Level-0 table #8: 2199589 bytes OK
+2022/10/14-15:31:15.634 6c4c Delete type=0 #4
+2022/10/14-15:31:16.473 6c4b Compacting 1@1 + 1@2 files
+2022/10/14-15:31:16.480 6c4b Generated table #9@1: 162 keys, 118569 bytes
+2022/10/14-15:31:16.480 6c4b Compacted 1@1 + 1@2 files => 118569 bytes
+2022/10/14-15:31:16.482 6c4b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/14-15:31:16.482 6c4b Delete type=2 #8
+2022/10/14-15:31:16.482 6c4b Delete type=2 #5

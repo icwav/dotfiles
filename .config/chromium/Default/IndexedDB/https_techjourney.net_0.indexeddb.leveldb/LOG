@@ -1,0 +1,6 @@
+2022/09/27-17:03:40.464 fd39 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_techjourney.net_0.indexeddb.leveldb since it was missing.
+2022/09/27-17:03:40.480 fd39 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_techjourney.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/27-17:04:30.723 fd39 Level-0 table #5: started
+2022/09/27-17:04:30.727 fd39 Level-0 table #5: 44087 bytes OK
+2022/09/27-17:04:30.731 fd39 Delete type=0 #3
+2022/09/27-17:04:30.732 fd39 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

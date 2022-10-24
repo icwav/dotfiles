@@ -1,0 +1,6 @@
+2022/10/04-15:49:53.371 4c56 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_nym1-ib.adnxs.com_0.indexeddb.leveldb since it was missing.
+2022/10/04-15:49:53.386 4c56 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_nym1-ib.adnxs.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/04-15:49:57.433 4c57 Level-0 table #5: started
+2022/10/04-15:49:57.437 4c57 Level-0 table #5: 385 bytes OK
+2022/10/04-15:49:57.442 4c57 Delete type=0 #3
+2022/10/04-15:49:57.442 4c57 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

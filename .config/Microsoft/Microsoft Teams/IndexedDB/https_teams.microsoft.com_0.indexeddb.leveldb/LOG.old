@@ -1,0 +1,15 @@
+2022/10/10-13:45:28.455 c2c Reusing MANIFEST /home/ivan/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/10-13:45:28.455 c2c Recovering log #172
+2022/10/10-13:45:28.455 c2c Reusing old log /home/ivan/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000172.log 
+2022/10/10-13:45:31.625 cdc Level-0 table #180: started
+2022/10/10-13:45:31.643 cdc Level-0 table #180: 20429 bytes OK
+2022/10/10-13:45:31.657 cdc Delete type=0 #172
+2022/10/10-13:45:31.658 cdc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/10-13:45:31.658 cdc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 171710 : 1
+2022/10/10-13:45:31.658 cdc Compacting 1@1 + 1@2 files
+2022/10/10-13:45:31.678 cdc Generated table #181@1: 1353 keys, 2144552 bytes
+2022/10/10-13:45:31.678 cdc Compacted 1@1 + 1@2 files => 2144552 bytes
+2022/10/10-13:45:31.684 cdc compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/10/10-13:45:31.685 cdc Delete type=2 #174
+2022/10/10-13:45:31.685 cdc Delete type=2 #180
+2022/10/10-13:45:31.685 cdc Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x16\x00t\x00m\x00p\x00.\x00e\x00c\x00s\x00-\x00s\x00e\x00t\x00t\x00i\x00n\x00g\x00s\x00-\x00c\x00a\x00c\x00h\x00e' @ 171710 : 1 .. (end); will stop at (end)

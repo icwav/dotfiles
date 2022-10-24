@@ -1,0 +1,6 @@
+2022/10/17-16:18:05.456 8a4 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2022/10/17-16:18:05.472 8a4 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/17-16:18:09.490 854 Level-0 table #5: started
+2022/10/17-16:18:09.496 854 Level-0 table #5: 2877 bytes OK
+2022/10/17-16:18:09.500 854 Delete type=0 #3
+2022/10/17-16:18:09.500 854 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

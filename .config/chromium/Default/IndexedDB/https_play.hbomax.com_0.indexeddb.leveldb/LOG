@@ -1,0 +1,6 @@
+2022/10/09-18:07:54.582 dea8 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_play.hbomax.com_0.indexeddb.leveldb since it was missing.
+2022/10/09-18:07:54.589 dea8 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_play.hbomax.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/09-20:08:49.767 11eaa Level-0 table #5: started
+2022/10/09-20:08:49.770 11eaa Level-0 table #5: 3691 bytes OK
+2022/10/09-20:08:49.774 11eaa Delete type=0 #3
+2022/10/09-20:08:49.774 11eaa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

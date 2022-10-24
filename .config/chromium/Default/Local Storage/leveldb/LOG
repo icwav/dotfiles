@@ -1,0 +1,6 @@
+2022/10/24-13:35:49.493 3 Reusing MANIFEST /home/ivan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/10/24-13:35:49.493 3 Recovering log #406
+2022/10/24-13:35:49.494 3 Reusing old log /home/ivan/.config/chromium/Default/Local Storage/leveldb/000406.log 
+2022/10/24-13:38:48.887 3 Level-0 table #410: started
+2022/10/24-13:38:48.901 3 Level-0 table #410: 40835 bytes OK
+2022/10/24-13:38:48.907 3 Delete type=0 #406

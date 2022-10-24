@@ -1,0 +1,22 @@
+[2022-10-21T16:21:09.430Z] Log level: Info
+[2022-10-21T16:21:09.431Z] [info] Validating found git in: git
+[2022-10-21T16:21:09.444Z] [info] Using git 2.38.1 from git
+[2022-10-21T16:21:09.452Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-21T16:21:09.456Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-10-21T16:21:09.459Z] [info] Open repository: /home/ivan/CCDC/godaedalus
+[2022-10-21T16:21:09.466Z] > git status -z -uall [4ms]
+[2022-10-21T16:21:09.481Z] > git symbolic-ref --short HEAD [12ms]
+[2022-10-21T16:21:09.486Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-10-21T16:21:09.503Z] > git remote --verbose [11ms]
+[2022-10-21T16:21:09.503Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-10-21T16:21:09.510Z] > git config --get commit.template [1ms]
+[2022-10-21T16:21:09.515Z] > git status -z -uall [2ms]
+[2022-10-21T16:21:09.519Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-21T16:21:09.523Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-10-21T16:21:09.531Z] > git remote --verbose [2ms]
+[2022-10-21T16:21:09.531Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-10-21T16:21:09.537Z] > git config --get commit.template [1ms]
+[2022-10-21T16:21:09.778Z] > git ls-files --stage -- /home/ivan/CCDC/godaedalus/main.go [5ms]
+[2022-10-21T16:21:09.781Z] > git show --textconv :main.go [11ms]
+[2022-10-21T16:21:09.781Z] > git cat-file -s 2d1b64336f71a025369cb751bf46a36d06c11a9d [1ms]
+[2022-10-21T16:21:10.003Z] > git check-ignore -v -z --stdin [1ms]

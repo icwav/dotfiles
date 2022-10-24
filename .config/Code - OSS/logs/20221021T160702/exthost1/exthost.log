@@ -1,0 +1,15 @@
+[2022-10-21 16:07:04.182] [exthost] [info] Extension host with pid 3276 started
+[2022-10-21 16:07:04.182] [exthost] [info] Skipping acquiring lock for /home/ivan/.config/Code - OSS/User/workspaceStorage/c97c7d1393b9ade4a4588a06c3f15094.
+[2022-10-21 16:07:04.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-21 16:07:04.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-21 16:07:04.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-21 16:07:04.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-21 16:07:04.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-21 16:07:04.378] [exthost] [info] Eager extensions activated
+[2022-10-21 16:07:04.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-21 16:07:04.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-21 16:28:37.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-10-21 16:28:37.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-10-21 16:28:38.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-10-21 19:08:26.298] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-21 19:08:26.305] [exthost] [info] Extension host with pid 3276 exiting with code 0

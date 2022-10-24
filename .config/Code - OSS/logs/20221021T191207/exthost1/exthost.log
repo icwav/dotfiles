@@ -1,0 +1,25 @@
+[2022-10-21 19:12:08.675] [exthost] [info] Extension host with pid 20994 started
+[2022-10-21 19:12:08.675] [exthost] [info] Skipping acquiring lock for /home/ivan/.config/Code - OSS/User/workspaceStorage/c97c7d1393b9ade4a4588a06c3f15094.
+[2022-10-21 19:12:08.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-21 19:12:08.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-21 19:12:08.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-21 19:12:08.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-21 19:12:08.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-21 19:12:08.801] [exthost] [info] Eager extensions activated
+[2022-10-21 19:12:08.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-21 19:12:08.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-24 00:32:40.801] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-24 00:32:40.807] [exthost] [info] Extension host with pid 20994 exiting with code 0
+[2022-10-24 00:32:42.056] [exthost] [info] Extension host with pid 29743 started
+[2022-10-24 00:32:42.056] [exthost] [info] Skipping acquiring lock for /home/ivan/.config/Code - OSS/User/workspaceStorage/27e62dfae3d9240adced4045194f2fe4.
+[2022-10-24 00:32:42.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-24 00:32:42.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-24 00:32:42.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-24 00:32:42.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-24 00:32:42.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-24 00:32:42.150] [exthost] [info] Eager extensions activated
+[2022-10-24 00:32:42.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-24 00:32:42.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-24 00:58:25.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+[2022-10-24 01:01:10.840] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-24 01:01:10.846] [exthost] [info] Extension host with pid 29743 exiting with code 0

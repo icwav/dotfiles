@@ -1,0 +1,15 @@
+2022/10/21-19:07:18.983 4da1 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/21-19:07:18.984 4da1 Recovering log #11
+2022/10/21-19:07:18.984 4da1 Reusing old log /home/ivan/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log 
+2022/10/21-19:07:27.525 4d88 Level-0 table #16: started
+2022/10/21-19:07:27.529 4d88 Level-0 table #16: 226 bytes OK
+2022/10/21-19:07:27.532 4d88 Delete type=0 #11
+2022/10/21-19:07:27.533 4d88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/10/21-19:07:27.533 4d88 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 957 : 1
+2022/10/21-19:07:27.533 4d88 Compacting 1@1 + 1@2 files
+2022/10/21-19:07:27.536 4d88 Generated table #17@1: 266 keys, 62576 bytes
+2022/10/21-19:07:27.536 4d88 Compacted 1@1 + 1@2 files => 62576 bytes
+2022/10/21-19:07:27.538 4d88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/21-19:07:27.539 4d88 Delete type=2 #13
+2022/10/21-19:07:27.539 4d88 Delete type=2 #16
+2022/10/21-19:07:27.539 4d88 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 957 : 1 .. (end); will stop at (end)

@@ -1,0 +1,13 @@
+[Trace 23:28:38.065] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:38.066] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:38.067] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:38.068] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:38.083] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ivan/droneDemo/README.md 1
+[Debug 23:28:38.084] LinkProvider: compute - file:///home/ivan/droneDemo/README.md
+[Debug 23:28:38.140] TableOfContentsProvider: create - file:///home/ivan/droneDemo/README.md
+[Trace 23:28:38.895] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:40.950] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:28:41.783] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:39:05.075] Server: connection.languages.diagnostics.on: file:///home/ivan/droneDemo/README.md
+[Trace 23:39:05.075] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/ivan/droneDemo/README.md
+[Trace 23:39:05.075] VsCodeClientWorkspace: deleteDocument: file:///home/ivan/droneDemo/README.md

@@ -1,0 +1,249 @@
+{
+   "checksum": "80cd23e71545730ffeafa4953099a552",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13308369431869561",
+               "date_last_used": "0",
+               "guid": "f4501cbd-d1ce-40bb-be40-4738592852ca",
+               "id": "5",
+               "name": "CCDC",
+               "type": "url",
+               "url": "https://www.snort.org/documents"
+            }, {
+               "children": [ {
+                  "date_added": "13308371776124497",
+                  "date_last_used": "0",
+                  "guid": "f4b1a226-6a32-4fbc-9134-719ff6ad00e6",
+                  "id": "10",
+                  "name": "Active Directory (Attack & Defense ) - 0xsp SRD",
+                  "type": "url",
+                  "url": "https://0xsp.com/offensive/active-directory-attack-defense/"
+               }, {
+                  "date_added": "13308371958259929",
+                  "date_last_used": "0",
+                  "guid": "dd5ad9c1-c2c5-4490-aa74-c8f4a016bb06",
+                  "id": "11",
+                  "name": "Securing Windows Workstations: Developing a Secure Baseline – Active Directory Security",
+                  "type": "url",
+                  "url": "https://adsecurity.org/?p=3299"
+               }, {
+                  "date_added": "13308371995284061",
+                  "date_last_used": "0",
+                  "guid": "06df20b8-f9cb-4c8b-96cc-4f256535d20f",
+                  "id": "13",
+                  "name": "SPNs – Active Directory Security",
+                  "type": "url",
+                  "url": "https://adsecurity.org/?page_id=183"
+               }, {
+                  "date_added": "13308370272340752",
+                  "date_last_used": "0",
+                  "guid": "3736cc6c-c1a7-4207-9012-1b7cd4d51419",
+                  "id": "8",
+                  "name": "GitHub - GhostPack/Rubeus: Trying to tame the three-headed dog.",
+                  "type": "url",
+                  "url": "https://github.com/GhostPack/Rubeus"
+               }, {
+                  "date_added": "13308370239570887",
+                  "date_last_used": "0",
+                  "guid": "bece125d-5b36-4461-83d7-e9ebcdf8f17c",
+                  "id": "6",
+                  "name": "impacket/GetUserSPNs.py at master · SecureAuthCorp/impacket · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/SecureAuthCorp/impacket/blob/master/examples/GetUserSPNs.py"
+               } ],
+               "date_added": "13308371981787767",
+               "date_last_used": "0",
+               "date_modified": "13308372084983609",
+               "guid": "9bcdc5cb-2b64-4f69-b3df-7c696c63f95c",
+               "id": "12",
+               "name": "Windows/AD",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13308370304192132",
+                  "date_last_used": "0",
+                  "guid": "079c9f69-3b83-4b52-aada-bc4cfa4bfa53",
+                  "id": "9",
+                  "name": "GitHub - xFaraday/godaedalus",
+                  "type": "url",
+                  "url": "https://github.com/xFaraday/godaedalus"
+               } ],
+               "date_added": "13308372065058066",
+               "date_last_used": "0",
+               "date_modified": "13308372068469363",
+               "guid": "6069c7f3-9473-4e3c-892b-4836dda2d246",
+               "id": "15",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "date_added": "13309581225080558",
+               "date_last_used": "0",
+               "guid": "cb0d6d80-3153-401d-aa15-bd1fa65208d8",
+               "id": "33",
+               "name": "Running glibc programs - Alpine Linux",
+               "type": "url",
+               "url": "https://wiki.alpinelinux.org/wiki/Running_glibc_programs#Arch_Linux"
+            }, {
+               "date_added": "13309581295713387",
+               "date_last_used": "0",
+               "guid": "ea011f30-65cf-44f0-8f6c-c0e61b9d426a",
+               "id": "34",
+               "name": "How to get regular stuff working - Alpine Linux",
+               "type": "url",
+               "url": "https://wiki.alpinelinux.org/wiki/How_to_get_regular_stuff_working"
+            }, {
+               "date_added": "13309581365677730",
+               "date_last_used": "0",
+               "guid": "a8da3b16-8bb7-4dd0-bda0-593cac4e11d1",
+               "id": "35",
+               "name": "Problem with the linux binaries on Alpine · Issue #1818 · github/hub",
+               "type": "url",
+               "url": "https://github.com/github/hub/issues/1818"
+            }, {
+               "date_added": "13309582008233985",
+               "date_last_used": "0",
+               "guid": "9695f8dc-ecfd-4980-8e2c-48519c3c066a",
+               "id": "36",
+               "name": "Running glibc programs - Alpine Linux",
+               "type": "url",
+               "url": "https://wiki.alpinelinux.org/wiki/Running_glibc_programs"
+            } ],
+            "date_added": "13308370261139873",
+            "date_last_used": "0",
+            "date_modified": "13309582008233985",
+            "guid": "984fb694-59ef-473f-9b83-940340f43e3c",
+            "id": "7",
+            "name": "CCDC",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13308372503199854",
+               "date_last_used": "0",
+               "guid": "9298f155-b91f-4be5-acfe-3740a0d0f275",
+               "id": "17",
+               "name": "GitHub - Chick2D/neofetch-themes: Neofetch configs put into a convinient repository",
+               "type": "url",
+               "url": "https://github.com/Chick2D/neofetch-themes"
+            }, {
+               "date_added": "13308713605795631",
+               "date_last_used": "0",
+               "guid": "bd738904-2092-4260-8643-6885845dba48",
+               "id": "19",
+               "name": "oh-my-fish/Themes.md at master · oh-my-fish/oh-my-fish · GitHub",
+               "type": "url",
+               "url": "https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md"
+            }, {
+               "date_added": "13308713611404986",
+               "date_last_used": "0",
+               "guid": "5ac42b74-afef-48a4-86fa-9e63dcdad330",
+               "id": "20",
+               "name": "lxappearance-gtk3 - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=lxappearance-gtk3&ei=EkUyY-_XNr_fkPIP4LiZ8AE&oq=lxapper&gs_lcp=Cgdnd3Mtd2l6EAEYAzIHCAAQQxCLAzIHCAAQQxCLAzIHCAAQQxCLAzIHCAAQChCLAzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoKCAAQRxDWBBCwAzoFCAAQkQI6CAgAEJECEIsDOhEILhCABBCxAxCDARDHARDRAzoLCC4QgAQQsQMQgwE6FAguEIAEELEDEIMBEMcBENEDENQCOgsILhCABBDHARDRAzoFCAAQgAQ6DgguEIAEELEDEMcBENEDOggILhCxAxCDAToOCAAQsQMQgwEQkQIQiwM6BAgAEEM6CAgAEIAEELEDOgsIABCABBCxAxCDAToKCAAQsQMQgwEQCjoKCC4QxwEQ0QMQCjoICAAQgAQQiwM6CAguEIAEEIsDOgoIABCABBAKEIsDOhQILhCABBDHARCvARCLAxCmAxCoAzoHCAAQsQMQCkoECEEYAEoECEYYAFC9B1ioFmCoImgFcAF4AIABsQGIAd8HkgEDNi4zmAEAoAEByAEIuAEDwAEB&sclient=gws-wiz"
+            } ],
+            "date_added": "13308372499851196",
+            "date_last_used": "0",
+            "date_modified": "13308785666292516",
+            "guid": "773314d4-a3c3-4e98-a01e-386c043ee340",
+            "id": "16",
+            "name": "rice",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13308785685656641",
+               "date_last_used": "0",
+               "guid": "2f4a03ae-b2ca-4442-8e33-9b161585e098",
+               "id": "24",
+               "name": "How To Secure Kubernetes Clusters In 7 Steps￼ – Collabnix",
+               "type": "url",
+               "url": "https://collabnix.com/how-to-secure-kubernetes-clusters-in-7-steps%ef%bf%bc/"
+            }, {
+               "date_added": "13308793234182535",
+               "date_last_used": "0",
+               "guid": "ad9185e0-eb94-4ccf-8941-5e9cba9500c4",
+               "id": "25",
+               "name": "Wearable: Gesture Controlled Drone | Hackaday.io",
+               "type": "url",
+               "url": "https://hackaday.io/project/3180-wearable-gesture-controlled-drone"
+            }, {
+               "date_added": "13308809154031144",
+               "date_last_used": "0",
+               "guid": "10542ccc-22d2-4ee1-9860-76699913055d",
+               "id": "26",
+               "name": "Reading files in GoLang - GoLang Docs",
+               "type": "url",
+               "url": "https://golangdocs.com/reading-files-in-golang"
+            }, {
+               "date_added": "13308809169625293",
+               "date_last_used": "0",
+               "guid": "4a5130be-f24b-4e60-8123-6f12c1cc8683",
+               "id": "27",
+               "name": "Text parsing of log file in GO - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/58175413/text-parsing-of-log-file-in-go"
+            }, {
+               "date_added": "13308809174905993",
+               "date_last_used": "0",
+               "guid": "696e8855-ac70-4523-aa2e-e53ab698669e",
+               "id": "28",
+               "name": "Go by Example: If/Else",
+               "type": "url",
+               "url": "https://gobyexample.com/if-else"
+            }, {
+               "date_added": "13309152176652820",
+               "date_last_used": "0",
+               "guid": "fba5360b-4cd4-4258-b9e8-69e091d02d8b",
+               "id": "30",
+               "name": "NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/927199/nvidia-smi-has-failed-because-it-couldnt-communicate-with-the-nvidia-driver-ma"
+            }, {
+               "date_added": "13309152181961754",
+               "date_last_used": "0",
+               "guid": "8530a4f2-34e7-4d67-a8c1-d45b61e3e6b6",
+               "id": "31",
+               "name": "How to install & configure nvidia driver on arch linux - Lintel Technologies Blog",
+               "type": "url",
+               "url": "https://howto.lintel.in/install-nvidia-arch-linux/"
+            } ],
+            "date_added": "13308785682284194",
+            "date_last_used": "0",
+            "date_modified": "13309581225080558",
+            "guid": "3f19d540-0b7c-402e-997c-df210a2461fd",
+            "id": "23",
+            "name": "Other Cyber stuff",
+            "type": "folder"
+         } ],
+         "date_added": "13308369216886141",
+         "date_last_used": "0",
+         "date_modified": "13308785685656641",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13308369216886142",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13308369216886143",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,13 @@
+2022/10/11-21:27:28.460 4aa3 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/11-21:27:28.460 4aa3 Recovering log #10
+2022/10/11-21:27:28.460 4aa3 Reusing old log /home/ivan/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000010.log 
+2022/10/11-21:27:29.371 4cf2 Level-0 table #14: started
+2022/10/11-21:27:29.375 4cf2 Level-0 table #14: 534 bytes OK
+2022/10/11-21:27:29.379 4cf2 Delete type=0 #10
+2022/10/11-21:27:29.379 4cf2 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 222 : 1
+2022/10/11-21:27:29.379 4cf2 Compacting 1@0 + 1@1 files
+2022/10/11-21:27:29.381 4cf2 Generated table #15@0: 11 keys, 493 bytes
+2022/10/11-21:27:29.381 4cf2 Compacted 1@0 + 1@1 files => 493 bytes
+2022/10/11-21:27:29.384 4cf2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/11-21:27:29.384 4cf2 Delete type=2 #14
+2022/10/11-21:27:29.384 4cf2 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 222 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

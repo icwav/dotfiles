@@ -1,0 +1,6 @@
+2022/10/10-19:38:27.028 91f0 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_www.polygon.com_0.indexeddb.leveldb since it was missing.
+2022/10/10-19:38:27.035 91f0 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_www.polygon.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/10-19:38:35.233 938e Level-0 table #5: started
+2022/10/10-19:38:35.238 938e Level-0 table #5: 36316 bytes OK
+2022/10/10-19:38:35.243 938e Delete type=0 #3
+2022/10/10-19:38:35.243 938e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

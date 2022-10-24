@@ -1,0 +1,4 @@
+[2022-10-21 19:12:18.612] [renderer1] [error] Error while registering log channel file:///home/ivan/.config/Code%20-%20OSS/logs/20221021T191207/userDataSync.log Timed out while waiting for file to be created
+[2022-10-24 00:32:40.747] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/ivan/droneDemo/drone_ips.txt 
+[2022-10-24 00:32:40.754] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/ivan/droneDemo/star_fleet.py 
+[2022-10-24 00:32:51.655] [renderer1] [error] Error while registering log channel file:///home/ivan/.config/Code%20-%20OSS/logs/20221021T191207/userDataSync.log Timed out while waiting for file to be created

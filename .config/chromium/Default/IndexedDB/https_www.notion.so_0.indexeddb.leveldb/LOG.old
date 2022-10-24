@@ -1,0 +1,7 @@
+2022/09/27-16:26:22.243 eaf2 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/27-16:26:22.243 eaf2 Recovering log #6
+2022/09/27-16:26:22.243 eaf2 Reusing old log /home/ivan/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000006.log 
+2022/09/27-16:26:26.343 d337 Level-0 table #11: started
+2022/09/27-16:26:26.346 d337 Level-0 table #11: 512 bytes OK
+2022/09/27-16:26:26.351 d337 Delete type=0 #6
+2022/09/27-16:26:26.351 d337 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

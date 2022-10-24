@@ -1,0 +1,18 @@
+00:00:00.065283 VirtualBox GUI VM Selector Window 6.1.38 r153438 linux.amd64 (Sep  1 2022 19:47:47) release log
+00:00:00.065284 Log opened 2022-10-05T01:59:44.402568000Z
+00:00:00.065285 Build Type: release
+00:00:00.065286 OS Product: Linux
+00:00:00.065286 OS Release: 5.19.12-arch1-1
+00:00:00.065287 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 28 Sep 2022 13:21:25 +0000
+00:00:00.065295 DMI Product Name: AORUS 15P XD
+00:00:00.065298 DMI Product Version: 993AC
+00:00:00.065301 Firmware type: UEFI
+00:00:00.065600 Secure Boot: Disabled
+00:00:00.065615 Host RAM: 15681MB (15.3GB) total, 12115MB (11.8GB) available
+00:00:00.065617 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.065617 Process ID: 40432
+00:00:00.065617 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.065632 Qt version: 5.15.6
+00:00:00.071824 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.293732 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 483x37 x 474x1034
+00:00:00.303155 GUI: UIMediumEnumerator: Medium-enumeration finished!

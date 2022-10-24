@@ -1,0 +1,6 @@
+2022/10/11-14:46:40.864 2454 Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb since it was missing.
+2022/10/11-14:46:40.895 2454 Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/11-14:50:06.650 25ff Level-0 table #5: started
+2022/10/11-14:50:06.657 25ff Level-0 table #5: 64503 bytes OK
+2022/10/11-14:50:06.666 25ff Delete type=0 #3
+2022/10/11-14:50:06.666 25ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/10/12-20:11:46.817 593f Creating DB /home/ivan/.config/chromium/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb since it was missing.
+2022/10/12-20:11:46.822 593f Reusing MANIFEST /home/ivan/.config/chromium/Default/IndexedDB/https_quizlet.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/12-20:11:49.346 58b5 Level-0 table #5: started
+2022/10/12-20:11:49.350 58b5 Level-0 table #5: 2239 bytes OK
+2022/10/12-20:11:49.354 58b5 Delete type=0 #3
+2022/10/12-20:11:49.354 58b5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

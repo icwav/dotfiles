@@ -1,0 +1,11 @@
+2022/10/10-13:45:26.937 c2d Reusing MANIFEST /home/ivan/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/10/10-13:45:26.937 c2d Recovering log #150
+2022/10/10-13:45:26.942 c2d Level-0 table #153: started
+2022/10/10-13:45:26.951 c2d Level-0 table #153: 406601 bytes OK
+2022/10/10-13:45:26.959 c2d Delete type=0 #150
+2022/10/10-13:47:40.413 de3 Level-0 table #156: started
+2022/10/10-13:47:40.436 de3 Level-0 table #156: 388678 bytes OK
+2022/10/10-13:47:40.451 de3 Delete type=0 #154
+2022/10/10-13:47:53.438 de3 Level-0 table #158: started
+2022/10/10-13:47:53.454 de3 Level-0 table #158: 221364 bytes OK
+2022/10/10-13:47:53.468 de3 Delete type=0 #155
