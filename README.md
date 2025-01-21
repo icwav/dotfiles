@@ -1,2 +1,2 @@
 # dotfiles
-I riced out my linux and here are the configurations for it (I probably dont use these anymore lol)
+linux dot files. Ill add more to this README later on on how to implement my configs if you like my setup
