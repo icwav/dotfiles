@@ -1,0 +1,18 @@
+1/9/2025, 1:35:18 AM PST 0: 
+
+----------------------------------------------
+1/9/2025, 1:35:18 AM PST 1: Discord starting: {"releaseChannel":"stable","version":"0.0.79"}, modulepath: /home/wav/.config/discord/0.0.79/modules
+1/9/2025, 1:35:18 AM PST 2: ✅ webContents.created web1 ""
+1/9/2025, 1:35:18 AM PST 3: ✅ window.created win1 "discord"
+1/9/2025, 1:35:19 AM PST 4: ✅ webContents.did-finish-load web1
+1/9/2025, 1:35:23 AM PST 5: ✅ webContents.created web2 ""
+1/9/2025, 1:35:23 AM PST 6: ✅ window.created win2 "Discord"
+1/9/2025, 1:35:25 AM PST 7: ✅ webContents.did-finish-load web2
+1/9/2025, 1:35:25 AM PST 8: window.close win1
+1/9/2025, 1:35:26 AM PST 9: webContents.destroyed web1
+1/9/2025, 1:35:26 AM PST 10: window.closed win1
+1/9/2025, 1:36:01 AM PST 11: window.close win2
+1/9/2025, 1:36:15 AM PST 12: window.close win2
+1/9/2025, 1:36:20 AM PST 13: before-quit
+1/9/2025, 1:36:20 AM PST 14: window.close win2
+1/9/2025, 1:36:20 AM PST 15: webContents.destroyed web2

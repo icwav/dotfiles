@@ -1,3 +1,2 @@
-2022/10/24-00:41:14.649 805e Reusing MANIFEST /home/ivan/.config/discord/shared_proto_db/metadata/MANIFEST-000001
-2022/10/24-00:41:14.649 805e Recovering log #3
-2022/10/24-00:41:14.649 805e Reusing old log /home/ivan/.config/discord/shared_proto_db/metadata/000003.log 
+2025/01/09-01:35:26.430 14fe5 Creating DB /home/wav/.config/discord/shared_proto_db/metadata since it was missing.
+2025/01/09-01:35:26.433 14fe5 Reusing MANIFEST /home/wav/.config/discord/shared_proto_db/metadata/MANIFEST-000001

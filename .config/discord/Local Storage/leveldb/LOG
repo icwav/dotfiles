@@ -1,6 +1,2 @@
-2022/10/24-00:41:07.129 804c Reusing MANIFEST /home/ivan/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/10/24-00:41:07.130 804c Recovering log #32
-2022/10/24-00:41:07.130 804c Reusing old log /home/ivan/.config/discord/Local Storage/leveldb/000032.log 
-2022/10/24-00:43:12.573 805e Level-0 table #35: started
-2022/10/24-00:43:12.592 805e Level-0 table #35: 1158090 bytes OK
-2022/10/24-00:43:12.596 805e Delete type=0 #32
+2025/01/09-01:35:18.680 15003 Creating DB /home/wav/.config/discord/Local Storage/leveldb since it was missing.
+2025/01/09-01:35:18.691 15003 Reusing MANIFEST /home/wav/.config/discord/Local Storage/leveldb/MANIFEST-000001
